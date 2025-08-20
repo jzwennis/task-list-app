@@ -1,0 +1,22 @@
+{
+  "name": "task-list-api",
+  "version": "1.0.0",
+  "description": "Task list API with Next.js and Neon PostgreSQL",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "pg": "^8.11.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.10.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
